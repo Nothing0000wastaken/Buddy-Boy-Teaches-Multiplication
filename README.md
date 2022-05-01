@@ -1,1 +1,1 @@
-This project was made for the Steel City Hacks 2022 hackathon. This project is a game styled like an old edutainment game from the 90's. In it, you get to play three games: Guess the Expression, Guess the Factor, and Guess the Product. The minigames are supposed the teach the player simple multiplication.
+
